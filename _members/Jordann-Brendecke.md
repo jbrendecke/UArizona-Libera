@@ -4,8 +4,8 @@ image: images/Jordann_web_pic.jpg
 description: Ph.D. Student
 role: Student
 aliases:
-  - A. Chovie
-  - A Chovie
+  - J. Brendecke
+  - J Brendecke
 links:
   home-page: annechovie.com
   email: jbrendecke@arizona.edu
