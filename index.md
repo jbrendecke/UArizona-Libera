@@ -14,14 +14,7 @@ The University of Arizona Librea Project looks to improve the Earth's Radiation 
   link="greenelab/lab-website-template"
   style="button"
 %}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
+
 {:.center}
 
 {% include section.html full=true %}
