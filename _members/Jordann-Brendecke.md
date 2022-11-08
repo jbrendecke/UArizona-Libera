@@ -7,7 +7,7 @@ aliases:
   - J. Brendecke
   - J Brendecke
 links:
-  home-page: annechovie.com
+  home-page: mountainproject.com
   email: jbrendecke@arizona.edu
   github: jbrendecke
 ---
