@@ -1,5 +1,5 @@
 ---
-name: Xiang Zheng
+name: Xiang What
 image: images/member.jpg
 description: Bone Investigator
 role: pi
