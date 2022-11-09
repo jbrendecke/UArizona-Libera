@@ -1,5 +1,5 @@
 ---
-name: Jordann Brendecke
+name: Xiang Zhang
 image: images/Jordann_web_pic.jpg
 description: Treat Researcher
 role: phd
