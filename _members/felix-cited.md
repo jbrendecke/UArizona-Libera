@@ -1,6 +1,6 @@
 ---
-name: Felix Cited
-image: images/member.jpg
+name: Jordann Brendecke
+image: images/Jordann_web_pic.jpg
 description: Treat Researcher
 role: phd
 group: alum
