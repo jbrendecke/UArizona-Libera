@@ -13,5 +13,5 @@ links:
 ---
 
 Jordann is a first year Ph.D. student in the department of Atmospheric Science at University of Arizona under Dr.Dong. 
-Jordann recieved his Bachelors in Atmospheric Science from the University of Utah in Spring of 2018.
+Jordann recieved his Bachelors in Atmospheric Science from the University of Utah in Spring of 2018. 
 His Masters was also in Atmospheric Science under Dr.Dong with a thesis looking marine boudary layer clouds during the MAGIC campagin over the eastern north Pacific.
