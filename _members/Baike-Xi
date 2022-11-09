@@ -1,18 +1,15 @@
 ---
 name: Baike Xi
 image: images/member.jpg
-description: Treat Researcher
+description: Researcher Professor
 role: advisor2
-group: alum
+group: advisor
 aliases:
-  - F. Cited
-  - F Cited
+  - B. Xi
+  - B Xi
 links:
-  home-page: felixcited.com
+  home-page: Baike-Xi.com
   email: felix@cited.com
-  twitter: felixcited
 ---
 
-Felix is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Dr.Xi is an advisor and research professor at University of Arizona.
