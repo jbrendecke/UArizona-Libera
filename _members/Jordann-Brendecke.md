@@ -2,7 +2,7 @@
 name: Jordann Brendecke
 image: images/Jordann_web_pic.jpg
 description: Ph.D. Student
-role: Student
+role: phd
 aliases:
   - J. Brendecke
   - J Brendecke
