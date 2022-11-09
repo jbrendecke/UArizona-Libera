@@ -15,19 +15,19 @@ Our team is currently at the University of Arizona in the Atmospheric Science De
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: advisor"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: advisor2"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: phd"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: programmer"
 %}
 {:.center}
 
