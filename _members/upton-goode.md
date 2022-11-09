@@ -1,8 +1,8 @@
 ---
-name: Xiang What
+name: Xiquan Dong
 image: images/member.jpg
 description: Bone Investigator
-role: phd
+role: advisor
 aliases:
   - U. Goode
   - U. O. Goode
