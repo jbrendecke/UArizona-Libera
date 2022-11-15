@@ -1,8 +1,8 @@
 ---
-name: Xiquan Dong
+name: Example Profile
 image: images/member.jpg
 description: Bone Investigator
-role: advisor
+role: example
 aliases:
   - U. Goode
   - U. O. Goode
