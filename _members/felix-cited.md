@@ -1,8 +1,8 @@
 ---
-name: Xiang Zhang
+name: Example Profile
 image: images/Jordann_web_pic.jpg
 description: Treat Researcher
-role: phd
+role: example
 group: alum
 aliases:
   - F. Cited
