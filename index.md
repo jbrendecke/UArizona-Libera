@@ -10,7 +10,7 @@ The University of Arizona Librea Project looks to improve the Earth's Radiation 
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/modtran1.jpg" %}
+{% include banner.html image="images/modtranp.png" %}
 
 {% include section.html %}
 
