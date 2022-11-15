@@ -1,6 +1,6 @@
 ---
 name: Baike Xi
-image: images/member.jpg
+image: images/xi_baike.jpg
 description: Researcher Professor
 role: advisor2
 group: advisor
