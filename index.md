@@ -10,6 +10,10 @@ The University of Arizona Librea Project looks to improve the Earth's Radiation 
 
 {% include section.html full=true %}
 
+{% include gallery.html image="images/Libera-Logo-HiRes.png" %}
+
+{% include section.html full=true %}
+
 {% include banner.html image="images/modtranp.png" %}
 
 {% include section.html %}
@@ -17,5 +21,5 @@ The University of Arizona Librea Project looks to improve the Earth's Radiation 
 # Highlights
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Currently our team is still in the intial phases of our project. We have ran the MODTRAN6 radiative transfer model for a signal month.
+We are comparing the results with multiple surface stations as well as CERES mesurments.
