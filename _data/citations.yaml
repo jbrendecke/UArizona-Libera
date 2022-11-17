@@ -12,7 +12,8 @@
   publisher: Earth and Space Science
   date: '2021-05-01'
   link: https://doi.org/gq82jh
-  _cache: 333a03284cb650c6c653224cdc7e74ac47c9ff61425201fa68cffa2d3c33a21f
+  image: images/AGU_logo.jpg.jpg
+  _cache: 90e7f682c0a8dd28dc6f713bda1299b52f7b44b139715fc5e217a6d82d0bbba4
 - id: doi:10.1029/2022EA002319
   title: "Maritime Aerosol and CCN Profiles Derived From Ship\u2010Based Measurements\
     \ Over Eastern North Pacific During MAGIC"
@@ -24,4 +25,5 @@
   publisher: Earth and Space Science
   date: '2022-04-01'
   link: https://doi.org/gq82jv
-  _cache: 6856d171861827043aaa6cab5248f4cd5ad4afd3cabf3d17bd392d4420a12d07
+  image: images/AGU_logo.jpg
+  _cache: fcec8ad55ad79c8d49bd24a8b215eac359ee8286253724d6ceb737dbc6c86b54
