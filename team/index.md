@@ -31,47 +31,8 @@ Our team is currently at the University of Arizona in the Atmospheric Science De
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+{% include section.html background="images/ceres.clouds.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-## Join
-
-#### Post Dogtoral Researcher
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
-
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
-{:.center}
+If interested in joining the team as a prospective student, please reached out to Dr.Dong. Further infromation for the University of Arizona Hydrology and Atmospheric Sciences degree program can be found [here.](https://has.arizona.edu/)
 
 {% include section.html %}
-
-## Funding
-
-Our work is made possible by funding from several organizations.
-{:.center}
-
-{%
-  include gallery.html
-  style="square"
-
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
-
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
-
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
-
-%}
