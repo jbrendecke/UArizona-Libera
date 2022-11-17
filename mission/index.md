@@ -17,8 +17,9 @@ By working together with our research groups around the country we hope to bette
 
 {% include section.html %}
 
-## Featured
-
-{% include list.html component="card" data="tools" filters="group: featured" %}
+## Background
 
 {% include section.html %}
+
+ One of the greatest challenges in predicting how much the Earth will warm in response to a doubling of atmospheric CO2 involves the representation of clouds and their interactions with ERB in climate models. CERES data products have been developed specifically to meet this challenge by providing a comprehensive suite of variables that describe clouds and their influence on ERB. ![](https://lasp.colorado.edu/home/libera/files/2021/02/Libera.jpg) 
+This is possible because the CERES data products take advantage of the synergy between collocated CERES instruments and imagers like MODIS (Terra and Aqua) and VIIRS (S-NPP, NOAA-20). Information about the diurnal cycle of clouds and radiation rely on geostationary imager data. (For more information about CERES data fusion, click on the “Instruments” link. 
