@@ -31,6 +31,9 @@ Just some example text
 
 {%
   include feature.html
-  image="images/AGU_logo.jpg"
+  image=![NetTOARadiation](https://user-images.githubusercontent.com/112034020/202569444-5f8f1b89-ab2f-4988-96b5-a29c7c505328.png)
   text=text
 %}
+
+
+And some more example text
