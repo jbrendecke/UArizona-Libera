@@ -10,6 +10,8 @@ links:
   home-page: mountainproject.com
   email: jbrendecke@arizona.edu
   github: jbrendecke
+  linkedin: jbrendecke/
+  orcid: my-orcid?orcid=0000-0001-8745-3747
 ---
 
 Jordann is a first year Ph.D. student in the department of Atmospheric Science at University of Arizona under Dr.Dong. 
