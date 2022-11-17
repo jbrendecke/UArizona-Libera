@@ -2,7 +2,7 @@
 title: Mission
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Research Background
 ---
 
 # <i class="fas fa-tools"></i>Mission
