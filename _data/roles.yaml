@@ -18,6 +18,6 @@ programmer:
   icon: fas fa-code
   text: Programmer
 
-mascot:
-  icon: fas fa-dog
-  text: Mascot
+lead:
+  icon: fas fa-glasses
+  text: Lead Researcher
