@@ -2,7 +2,7 @@
 name: Baike Xi
 image: images/xi_baike.jpg
 description: Researcher Professor
-role: advisor2
+role: lead
 group: advisor
 aliases:
   - B. Xi
