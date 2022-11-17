@@ -5,7 +5,7 @@ description: Ph.D. Student
 role: phd
 aliases:
   - J. Brendecke
-  - J Brendecke
+  - Jordann Brendecke
 links:
   home-page: mountainproject.com
   email: jbrendecke@arizona.edu
