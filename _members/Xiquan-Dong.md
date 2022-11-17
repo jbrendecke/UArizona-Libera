@@ -2,7 +2,7 @@
 name: Xiquan Dong
 image: images/xiquan_dong.jpg
 description: Professor
-role: advisor
+role: pi
 group: advisor
 aliases:
   - X. Dong
