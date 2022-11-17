@@ -15,7 +15,7 @@ Our team is currently at the University of Arizona in the Atmospheric Science De
   include list.html
   data="members"
   component="portrait"
-  filters="role: advisor"
+  filters="role: pi"
 %}
 {%
   include list.html
